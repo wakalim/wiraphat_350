@@ -1,3 +1,3 @@
 # wiraphat_350
-test
+test\n
 Hello
